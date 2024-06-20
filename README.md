@@ -15,3 +15,5 @@ The brief for the assignment is as follows:
 > •    Also the college would like to include the possibility of entering for one event only
 > 
 > You have been asked to design and develop a computer program to manage the scoring system for the tournament.
+
+The program is ran entirely through "tournament scoring.py" with references to "team scores.txt" and "individual scores.txt" within it. 
