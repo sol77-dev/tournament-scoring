@@ -1,5 +1,5 @@
 # tournament-scoring
-My assignment program focused around a system to submit scores for a tournament. 
+My old GCSE assignment program focused around a system to submit scores for a tournament. (I made this 5 years ago, I just needed a place to store it).
 
 The brief for the assignment is as follows:
 > You are a junior employee at a small software development company. Your company recently visited a local college and delivered a guest lecture. The college were pleased with the outcome of the visit and have asked your company to judge an upcoming tournament.
